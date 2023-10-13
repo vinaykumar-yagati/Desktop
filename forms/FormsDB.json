@@ -1,0 +1,30 @@
+{
+  "productsData": [
+    {
+      "productId": "10",
+      "title": "mi",
+      "brand": "xiaomi",
+      "price": "30000",
+      "des": "best performance",
+      "imgurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
